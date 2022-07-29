@@ -1,1 +1,3 @@
-# 사과와 배의 질병 이미지 데이터 분류
+# Modeling 
+- Pear diseases Classification : Used MobileNet
+- Apple diseases Classification : Used VGG19
