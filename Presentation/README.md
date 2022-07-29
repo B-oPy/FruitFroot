@@ -1,1 +1,3 @@
-# 사과와 배의 질병 이미지 데이터 분류
+# Presentation
+- Docs
+- PPT
