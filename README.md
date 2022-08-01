@@ -23,7 +23,8 @@
 |Validation Loss|0.0595|0.0922|
 |Validation Accuracy|0.9774|0.9705|
 
-![그림1](https://user-images.githubusercontent.com/104330432/182103144-0165055f-7e26-45ce-ab98-e115f5d26461.png)
+![그림1](https://user-images.githubusercontent.com/104330432/182103627-812ac535-e99b-4c89-9e9b-9aa9c99d86a6.png)
+
 
 ## Flask API
 <img width="1315" alt="스크린샷 2022-08-01 오후 12 56 06" src="https://user-images.githubusercontent.com/104330432/182100793-283d5f93-dedb-444e-bbe8-4d042b4f7610.png">
