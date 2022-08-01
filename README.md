@@ -25,8 +25,19 @@
 
 ![그림1](https://user-images.githubusercontent.com/104330432/182103627-812ac535-e99b-4c89-9e9b-9aa9c99d86a6.png)
 
+## 예측 결과
+
 
 ## Flask API
 <img width="1315" alt="스크린샷 2022-08-01 오후 12 56 06" src="https://user-images.githubusercontent.com/104330432/182100793-283d5f93-dedb-444e-bbe8-4d042b4f7610.png">
 
+> - 데스크탑 화면
+<img width="1136" alt="스크린샷 2022-07-29 오후 5 21 12" src="https://user-images.githubusercontent.com/104330432/182103930-d1466b11-291e-4e40-839d-ceb05e59fdc8.png">
+<img width="1135" alt="스크린샷 2022-07-29 오후 5 22 06" src="https://user-images.githubusercontent.com/104330432/182103990-fccc674b-37b4-4523-ae9c-bdd5222c5738.png">
 
+> - 모바일 화면 
+<img width="385" alt="스크린샷 2022-07-29 오후 5 20 26" src="https://user-images.githubusercontent.com/104330432/182103944-77049935-950b-4561-ada1-95f2d3e83392.png">
+<img width="381" alt="스크린샷 2022-07-29 오후 4 13 06" src="https://user-images.githubusercontent.com/104330432/182104054-4a1b9a15-1be7-4443-bc34-98ba1a88fa1c.png">
+
+> - 자세히 보기 화면
+<img width="2240" alt="스크린샷 2022-07-29 오후 4 14 08" src="https://user-images.githubusercontent.com/104330432/182104433-a964eed1-cfff-455d-b0bc-facf4cd4e88a.png">
