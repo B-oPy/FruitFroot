@@ -1,10 +1,15 @@
 # FruitFroot
 ![icon](https://user-images.githubusercontent.com/104330432/182096938-c120bb18-b13a-4505-9927-c7ef29bef564.png)
 
-## 사과와 배의 질병 이미지 데이터
+## Description
+> FruitFroot 프로젝트에서는 국내 사과와 배 과원들에서 발병한 사진들의 데이터를 통해 차후 발생할 질병들에 대한 구분과 그 질병들의 치료법을 제공하기 위한것을 목표로 하였다 
+## 프로젝트 수행 절차 
+![수행절차](https://user-images.githubusercontent.com/104330432/182101308-18e850fc-a356-4dac-8b92-8b9462a1e401.png)
+
+## 사과와 배의 질병 이미지 데이터셋
 > - 사과와 배의 과수화상병및 질병 이미지 분류 <br>
 > - https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=146 에서 제공된 데이터를 바탕으로 이미지 분류 서비스를 구축하였다 
-
+> - 제공된 데이터의 양이 너무나 방대하였기에 증강된 데이터들은 삭제를 하였고 사이즈를 (224, 224) 로 줄여서 총 사과 이미지 37024개와 배 이미지 22991개의 이미지 데이터들을 사용하였다
 ## 사과와 배에서 발생할 수있는 질병들
 ![이미지설명](https://user-images.githubusercontent.com/104330432/182098359-d91702ad-ff5b-4d9c-8710-bb4670dbf04c.png)
 
@@ -17,3 +22,7 @@
 ||MobileNet|VGG19|
 |Validation Loss|0.0595|0.0922|
 |Validation Accuracy|0.9774|0.9705|
+
+## Flask API
+<img width="1315" alt="스크린샷 2022-08-01 오후 12 56 06" src="https://user-images.githubusercontent.com/104330432/182100793-283d5f93-dedb-444e-bbe8-4d042b4f7610.png">
+
