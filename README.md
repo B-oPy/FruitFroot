@@ -38,7 +38,7 @@
 
 > - 모바일 화면 
 
-![11](https://user-images.githubusercontent.com/104330432/182106789-cccc38df-0304-4ab4-9134-20895b1e5ce1.png){: .center}
+<center>![11](https://user-images.githubusercontent.com/104330432/182106789-cccc38df-0304-4ab4-9134-20895b1e5ce1.png)</center>
 
 > - 자세히 보기 화면
 
